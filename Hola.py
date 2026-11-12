@@ -1,1 +1,1 @@
-sprint("hola,mundo")
+print("hola,mundo")
